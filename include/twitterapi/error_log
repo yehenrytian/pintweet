@@ -1,0 +1,8 @@
+[04-Sep-2012 15:32:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php:772) in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 36
+[04-Sep-2012 15:33:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php:772) in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 39
+[04-Sep-2012 15:33:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php:772) in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 36
+[04-Sep-2012 15:33:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php:772) in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 39
+[26-Nov-2013 15:31:27] PHP Notice:  Undefined index:  oauth_token in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 14
+[26-Nov-2013 15:31:28] PHP Notice:  Undefined index:  oauth_token_secret in /home6/overthro/public_html/pintweet/include/twitterapi/callback.php on line 20
+[26-Nov-2013 15:31:28] PHP Notice:  Undefined index:  oauth_token in /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php on line 706
+[26-Nov-2013 15:31:28] PHP Notice:  Undefined index:  oauth_token_secret in /home6/overthro/public_html/pintweet/include/twitterapi/twitter.lib.php on line 706
